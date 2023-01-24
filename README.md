@@ -9,4 +9,4 @@ Great practice to work with conditional styling. If the count is positive, the n
 
 ----
 
-Deploy [here](https://counter-app-wheat.vercel.app/)
+Deployed [here](https://counter-app-wheat.vercel.app/)
