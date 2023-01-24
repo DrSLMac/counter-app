@@ -4,10 +4,6 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-  const [isPositive, setPositive] = useState(false)
-  const [isNegative, setNegative] = useState(false)
-
-
   return (
     <div className='app'>
       <div className='card'>
