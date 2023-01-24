@@ -74,11 +74,13 @@ h2 {
 
 .negative {
   color: rgb(139, 21, 21);
-  animation: pulse 500ms ease-in-out
+  text-shadow: 2px 2px 25px white;
+  animation: pulse 500ms ease-in-out;
 }
 
 .positive {
   color:rgb(237, 222, 13);
+  text-shadow: 2px 2px 25px rgb(184, 210, 165);
   animation: pulse 500ms ease-in-out
 }
 
